@@ -1,0 +1,27 @@
+{
+  "name": "grommet-dashboard-work",
+  "version": "0.0.0",
+  "author": {
+    "name": "Emre YALVAC"
+  },
+  "description": "grommet v2 ui work",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "grommet": "^2.1.0",
+    "grommet-icons": "4.0.1",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "react-router-dom": "4.3.1",
+    "styled-components": "^4.1.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
